@@ -1,0 +1,91 @@
+body
+{
+color: blue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: black;
+}
+
+nav
+{
+color: blue;
+font-weight: bold;
+font-size: large;
+background-color: white;
+}
+nav ul {
+    list-style-type: none;
+    background-color:black;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    display: block;
+    padding: 14px 100px;
+    text-decoration:none;
+}
+header{
+   padding: 200px 100px;
+    background-color: beige;
+    text-align: center;
+}
+header img
+{
+height: 150px;
+width: 150px;
+border-radius: 50%;
+border-style: solid;
+border-color: black;
+}
+
+.profile{
+  color: blue;
+  font-size: large;
+  font-weight: bold;
+  background-color: black;
+  padding: 200px;  
+}
+.profile h2{
+   
+    font-size: xx-large;
+}
+
+.Acadamic{
+  font-size: large;
+  font-weight: bold;
+  background-color:white;
+  padding: 200px;  
+}
+.Acadamic h3{
+     font-size: large;
+    text-decoration: underline;
+}
+
+.Skills{
+    font-size: large;
+    font-weight: bold;
+    background-color:black;
+    padding: 200px;  
+  }
+
+.About{
+    font-size: large;
+    font-weight: bold;
+    background-color:white;
+    padding: 200px;  
+  }
+
+footer{
+    text-align: center;
+    background-color:black;
+    padding: 5px;
+  }
+
+  .img{
+    display:flex;
+    justify-content: space-between ;
+  }
+  /*https://th.bing.com/th/id/OIP.GlXqxcR9EmviN5kuwaUsMQHaIB?rs=1&pid=ImgDetMain" 
